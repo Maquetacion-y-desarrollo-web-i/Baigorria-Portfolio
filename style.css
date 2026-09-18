@@ -1,0 +1,50 @@
+@import url('https://googleapis.com');
+body {
+  background-color: #1A1F1F
+}
+.img {
+    width: 150px;
+    height: 80px;
+}
+
+.button {
+    background: #F45100;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 7px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.nav {
+    text-align: right;
+    text-decoration: none;
+    display: flex;
+    font-weight: bold;
+    gap: 20px;
+    margin-right: 2rem;
+}
+.inicio1 {
+    color: white;
+    font-size: 50px;
+    margin: 0;
+}
+.inicio2 {
+    color: #A0AEC0;
+    font-size: 50px;
+    margin: 0;
+}
+.classo {
+    color: #F45100;
+    font-size: 18px;
+}
+.section1 {
+    margin: 0;
+}
+
+
+
