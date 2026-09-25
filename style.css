@@ -1,6 +1,7 @@
 @import url('https://googleapis.com');
 body {
-  background-color: #1A1F1F
+  background-color: #1A1F1F;
+  padding: 10px;
 }
 .img {
     width: 150px;
@@ -32,11 +33,21 @@ body {
     color: white;
     font-size: 50px;
     margin: 0;
+    font-family: 'sora';
+    font-weight: 800;
 }
 .inicio2 {
     color: #A0AEC0;
     font-size: 50px;
     margin: 0;
+    font-family: 'sora';
+    font-weight: 800;
+}
+.inicio3 {
+    color: #A0AEC0;
+    font-size: 25px;
+    margin: 0px;
+    padding: 12px;
 }
 .classo {
     color: #F45100;
@@ -44,7 +55,27 @@ body {
 }
 .section1 {
     margin: 0;
+    padding: 2px;
 }
-
+.white {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.cardubi {
+    color: white;
+    width: 150px;
+    margin: 0px;
+    padding: 5px;
+    border: 0.2px solid #37869E;
+    border-radius: 5px;
+    background-color: #1C2945;
+}
+.desc {
+    width: 330px;
+    font-size: 20px;
+    padding: 10px;
+    color: #A0AEC0;
+}
 
 
